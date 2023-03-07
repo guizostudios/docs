@@ -717,23 +717,6 @@ const Users: User[] = [
     tags: ['celosage', 'beginner','celo', 'smartcontract'],
   },
   {
-<<<<<<< Updated upstream
-=======
-    title: 'Prepare for Auditing Your Smart Contract',
-    description: 'Auditing is the process of reviewing your smart contracts code for errors, vulnerabilities, and potential weaknesses',
-    preview: require('./showcase/intermediate/prepare-for-auditing-your-smart-contract.png'),
-    website: 'blog/tutorials/prepare-for-auditing-your-smart-contract',
-    tags: ['celosage', 'intermediate','celo', 'smartcontract'],
-  },
-  {
-    title: 'Escrow service on Celo that holds funds until certain conditions are met',
-    description: 'This is an example of a smart contract where a guarantee can be defined between buyer and seller',
-    preview: require('./showcase/intermediate/escrow-service-on-celo-that-holds-funds-until-certain-conditions-are-met.png'),
-    website: 'blog/tutorials/escrow-service-on-celo-that-holds-funds-until-certain-conditions-are-met',
-    tags: ['celosage', 'intermediate','celo','remix', 'smartcontract'],
-  },
-  {
->>>>>>> Stashed changes
     title: '1. Beginner Tutorials',
     description: 'Curated list of beginner Celo developer tutorials.',
     preview: require('./showcase/beginner/beginner-tutorials.png'),
